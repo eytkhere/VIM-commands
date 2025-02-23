@@ -2,9 +2,13 @@
 
 
 1.Open Git Bash.
+
 2.Create a script: touch script.sh
+
 3.Edit it: vim script.sh (or use Notepad++)
+
 4.Make it executable: chmod +x script.sh
+
 5.Run it: ./script.sh
 
 
