@@ -1,11 +1,11 @@
 # VIM-commands
 
 
-Open Git Bash.
-Create a script: touch script.sh
-Edit it: vim script.sh (or use Notepad++)
-Make it executable: chmod +x script.sh
-Run it: ./script.sh
+1.Open Git Bash.
+2.Create a script: touch script.sh
+3.Edit it: vim script.sh (or use Notepad++)
+4.Make it executable: chmod +x script.sh
+5.Run it: ./script.sh
 
 
 Basic Navigation
