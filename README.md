@@ -3,7 +3,7 @@
 
 Open Git Bash.
 Create a script: touch script.sh
-Edit it: nano script.sh (or use Notepad++)
+Edit it: vim script.sh (or use Notepad++)
 Make it executable: chmod +x script.sh
 Run it: ./script.sh
 
