@@ -26,3 +26,22 @@ Editing
     x – Delete the character under the cursor
     u – Undo last action
     Ctrl + r – Redo last undone action
+
+Basic Save and Quit Commands
+
+    :w → Save (write) the file
+    :q → Quit (only if no changes were made)
+    :wq or :x → Save and quit
+    ZZ → Save and quit (same as :wq)
+
+Forcing Save and Quit
+
+    :q! → Quit without saving (force quit)
+    :w! → Force save (write the file even if it's read-only)
+    :wq! → Force save and quit
+
+Handling Multiple Files
+
+    :wa → Save all open files
+    :wqa → Save all files and quit
+    :qall! → Quit all files without saving
