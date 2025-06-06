@@ -38,6 +38,10 @@ Editing
     u – Undo last action
     Ctrl + r – Redo last undone action
 
+Search
+    / → search - type key word and then enter
+    n - next location of key word
+
 Basic Save and Quit Commands
 
     :w → Save (write) the file
