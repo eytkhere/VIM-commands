@@ -19,6 +19,7 @@ Basic Navigation
     j – Move down (↓)
     k – Move up (↑)
     gg – Go to the beginning of the file
+    ggVG - select all (ctrl a)
     G – Go to the end of the file
     0 – Move to the beginning of a line
     ^ – Move to the first non-blank character of a line
